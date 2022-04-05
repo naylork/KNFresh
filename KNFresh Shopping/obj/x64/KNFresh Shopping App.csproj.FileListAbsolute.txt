@@ -1,0 +1,103 @@
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\KNFresh Shopping App.exe.config
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\KNFresh Shopping App.exe
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\AForge.Controls.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\AForge.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\AForge.Imaging.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\AForge.Math.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\AForge.Video.DirectShow.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\AForge.Video.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\BouncyCastle.Crypto.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Google.Protobuf.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\K4os.Compression.LZ4.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\K4os.Compression.LZ4.Streams.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\K4os.Hash.xxHash.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Bcl.HashCode.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.EntityFrameworkCore.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Extensions.Configuration.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Extensions.Logging.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Extensions.Options.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Extensions.Primitives.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\MySql.Data.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\MySqlConnector.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\System.Buffers.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\System.Collections.Immutable.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\System.ComponentModel.Annotations.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\System.Memory.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\System.Numerics.Vectors.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\System.Threading.Tasks.Extensions.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Ubiety.Dns.Core.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\ZstdNet.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\zxing.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\zxing.presentation.dll
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\AForge.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\AForge.Controls.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\AForge.Imaging.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\AForge.Math.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\AForge.Video.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\AForge.Video.DirectShow.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Google.Protobuf.pdb
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Google.Protobuf.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\K4os.Compression.LZ4.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\K4os.Compression.LZ4.Streams.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\K4os.Hash.xxHash.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Bcl.HashCode.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.EntityFrameworkCore.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Extensions.Configuration.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Extensions.Logging.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Extensions.Options.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\Microsoft.Extensions.Primitives.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\MySql.Data.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\MySql.Data.EntityFrameworkCore.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\MySqlConnector.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\System.Buffers.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\System.Collections.Immutable.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\System.Memory.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\System.Numerics.Vectors.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\System.Threading.Tasks.Extensions.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\zxing.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\zxing.presentation.xml
+C:\Users\Biodog\source\repos\KNFresh Shopping\obj\x64\KNFresh Shopping App.csproj.AssemblyReference.cache
+C:\Users\Biodog\source\repos\KNFresh Shopping\obj\x64\KNFresh_Shopping.Forms.AddItems.resources
+C:\Users\Biodog\source\repos\KNFresh Shopping\obj\x64\KNFresh_Shopping.Forms.AdminLogin.resources
+C:\Users\Biodog\source\repos\KNFresh Shopping\obj\x64\KNFresh_Shopping.BarcodeExiting.resources
+C:\Users\Biodog\source\repos\KNFresh Shopping\obj\x64\KNFresh_Shopping.BarcodeShopping.resources
+C:\Users\Biodog\source\repos\KNFresh Shopping\obj\x64\KNFresh_Shopping.BarcodeEntry.resources
+C:\Users\Biodog\source\repos\KNFresh Shopping\obj\x64\KNFresh_Shopping.Forms.CardCheckout.resources
+C:\Users\Biodog\source\repos\KNFresh Shopping\obj\x64\KNFresh_Shopping.Forms.Checkout.resources
+C:\Users\Biodog\source\repos\KNFresh Shopping\obj\x64\KNFresh_Shopping.Login.resources
+C:\Users\Biodog\source\repos\KNFresh Shopping\obj\x64\KNFresh_Shopping.Forms.Register.resources
+C:\Users\Biodog\source\repos\KNFresh Shopping\obj\x64\KNFresh_Shopping.Properties.Resources.resources
+C:\Users\Biodog\source\repos\KNFresh Shopping\obj\x64\KNFresh_Shopping.Shopping_Tips.resources
+C:\Users\Biodog\source\repos\KNFresh Shopping\obj\x64\KNFresh Shopping App.csproj.GenerateResource.cache
+C:\Users\Biodog\source\repos\KNFresh Shopping\obj\x64\KNFresh Shopping App.csproj.CoreCompileInputs.cache
+C:\Users\Biodog\source\repos\KNFresh Shopping\obj\x64\KNFresh Shopping App.csproj.CopyComplete
+C:\Users\Biodog\source\repos\KNFresh Shopping\obj\x64\KNFresh Shopping App.exe
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\KNFresh Shopping App.exe.manifest
+C:\Users\Biodog\source\repos\KNFresh Shopping\bin\x64\KNFresh Shopping App.application
+C:\Users\Biodog\source\repos\KNFresh Shopping\obj\x64\KNFresh Shopping App.exe.manifest
+C:\Users\Biodog\source\repos\KNFresh Shopping\obj\x64\KNFresh Shopping App.application
